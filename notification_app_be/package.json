@@ -1,0 +1,17 @@
+{
+  "name": "notification_app_be",
+  "version": "1.0.0",
+  "description": "Backend notification system",
+  "main": "priority_notifications.js",
+  "scripts": {
+    "start": "node priority_notifications.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
